@@ -1,0 +1,64 @@
+1.1: La premiere methode permet de séprarer la liste en 2 et donc de rentrer des parties de  valeurs divisés 
+    -> la deuxieme permet de décomposer la liste  
+    -> la troisieme permet de lister chaque valeurs de la liste
+    -> la quatrieme est comme la troisieme sauf que il est mieux rédigé  et liste toutes la liste peut importe indice 
+    -> la cinquieme est comme la troisieme sauf qu'il liste toutes la liste peut importe son nombre d'éléments
+    -> la sixieme renvoit les elements et les indices format i,x
+    -> la septieme decrit la liste 2 , 'coucou',0.2 , True puis énumere chaque caractère 
+    -> Il permet de renvotyer la valeur 
+2.1 : Le code revoit la liste qui a été transmises en code ASCII puis en Binaire le caractère "a" -> Indiquer le 
+2.2 : Le code a (gauche/droite) renvoi la variable t qui est le tuple de A après une décomposition binaire de t 
+2.3 : 
+    PG2 : il donne 'Bonjour le monde '
+    PG3 : il demande en une fonction a l'user de rentrer a et b puis attribut sa somme a c retourne a b et c puis intègre dans un tuple 5 et 8 
+        -> qu'il va aditionner 
+    PG4 : il va aficher 8
+2.5 il va mettre (cf ligne 4 programme 5 )
+    ->  il va print 1, 2 , 3 , 4 , 5 , 6 ,7 ,8  
+
+3. Ce programme permet de transférer la variable L et M entres elles puis ajouter la valeur donc M = [2,5,8,4] 
+4. Ce qui sera affiché sera en liste au lieu de la str cela permet de la convertir en liste et donc de repartir -> 
+ Ce code affecte la chaîne de caractères 'Azerty' à la variable x, affiche la valeur de x, 
+ convertit x en une liste de caractères et l'affecte à la variable y,
+ affiche la valeur de y, et enfin affiche le type de y, qui est une liste.
+
+6.5.Pour L1 il va générer une liste de 10 caractère de 0 a 10
+ il va renverser la chaine de caractère de L2 puis la trier  du plus petit au plus grand 
+ puis pour L3 il va afficher [1, 3, 5, 7, 9, 11, 13, 15, 17, 19] ce qui permet de faire 2*i+1 10 fois ce qui permet de 
+ L5 va donner le modulo de L4 qui lui est une liste de  randint entre 0 et 99 avec 15 elements
+ L7 va donner le carré de chaque éléments de L6 dans une liste 
+ 
+
+
+ #7#
+ 1.x = [1,3,4] et [5,6,8]
+ 2. Il va redonner la matrice de nombre en vertical 
+ 
+
+###########################
+    t=()
+    print(t)
+    t =(4, )
+    t+= (2,5,7, 'B')
+    print(tuple)
+    print(t[-1]) 
+    print(t[3])
+    print (t[1:3])
+    print(len(t))
+    print(t[1:3])
+    print (len(t))
+    print(t[3 : ])
+    print(t[:3 ])
+    A = ' bonjour '
+    t = tuple(A)
+    print(t)
+###########################
+I   B
+    7
+    (2, 5)
+    5
+    (2, 5)
+    5
+    (7, 'B')
+    (4, 2, 5)
+    (' ', 'b', 'o', 'n', 'j', 'o', 'u', 'r', ' ')
