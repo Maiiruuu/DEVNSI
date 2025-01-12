@@ -1,3 +1,3 @@
 # DEVNSI
 
-Ici nous pouvons voir les programmes demmandé en cours
+🌹Dev is an art of subtility🌹
